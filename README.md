@@ -2,8 +2,6 @@
 
 Command line arguments
 
-Link main.c and carfunction.c
-
 On the command line use "Search", "Create", "Size".
 
 "Search"-Write name of a car model right after "Search"
