@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Toyoto Black 612 1999 152000
 Mercedes White 546 1986 14500
 Mitsubishi Green 56 1884 45999
 Bugatti Brown 1300 2005 10000023
+=======
+
+>>>>>>> 7057003320e3912082ea4a9ef874a6749b1464ac
