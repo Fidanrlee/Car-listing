@@ -2,28 +2,26 @@
 #define carfunction
 #define s N_items-1
 
-
-
 struct Car {
         char Model_name[50];
-        char Colour[50];
-        int Year;
-        int Engine_size;
-        int Price;
+        char Color[50];
+        char Year[5];
+        char Engine_size[6];
+        char Price[10];
 };
 
-
+void Print();
 
 void Create ();
 
-void Edit ();
+void Search();
 
-struct Car Search();
+void List();
 
-void Sort ();
+void ADD ();
 
 void Delete ();
 
-int countlines();
+void countlines();
 
 #endif
